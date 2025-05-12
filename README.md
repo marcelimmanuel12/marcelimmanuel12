@@ -1,8 +1,6 @@
 <div align="center">
-    <a href="https://drive.google.com/uc?export=download&id=10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg">
-        <video width="600" controls>
-            <source src="https://drive.google.com/uc?export=download&id=10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg" type="video/mp4">
-        </video>
+    <a href="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" target="_blank">
+        <img src="https://media.tenor.com/2h5AqdpGfi0AAAAC/arlecchino-genshin-impact.gif" alt="Main Gif" />
     </a>
 </div>
 
