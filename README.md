@@ -1,7 +1,8 @@
 <div align="center">
-    <iframe src="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" width="800" height="450" allow="autoplay"></iframe>
+    <a href="https://marcelimmanuel12.github.io">
+        <img src="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/view?usp=sharing" alt="Main Gif" />
+    </a>
 </div>
-
 ---
 
 ### 💫 About Me:
