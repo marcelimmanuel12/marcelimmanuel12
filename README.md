@@ -1,6 +1,6 @@
-![Banner Tech](banner-tech.png)
+![Banner Tech](img/banner-tech.png)
 
-<h1 align="center">Hello Everyone <img src="giphy.gif" width="35">, I'm Marcel Immanuel </h1>
+<h1 align="center">Hello Everyone <img src="img/giphy.gif" width="35">, I'm Marcel Immanuel </h1>
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
@@ -89,6 +89,6 @@
 <br> 
 <br>
 <div align="center">
-<img src="cat-line.png" alt="Ilsya" />
+<img src="img/cat-line.png" alt="Ilsya" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
