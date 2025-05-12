@@ -4,7 +4,7 @@
     </p>
 </div>
 
-<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="center">Hey Marcel there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 ---
 
 ### 💫 About Me:
