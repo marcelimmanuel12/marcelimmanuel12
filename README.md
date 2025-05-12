@@ -1,3 +1,6 @@
+![Banner Tech](assets/banner-tech.png)
+
+<h1 align="center">Hello Everyone <img src="assets/giphy.gif" width="35">, I'm Marcel Immanuel </h1>
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
