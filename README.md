@@ -12,9 +12,9 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/marcel-immanuel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <a href="https://www.linkedin.com/in/marcel-immanuel-420028333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
+    </a>
   <a href="https://discordapp.com/marcel.122" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -76,8 +76,5 @@
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
-#### 💰 You can help me by Donating
-  [![PayPal](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg)](https://paypal.me/ArdiShaqil) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
