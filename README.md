@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" target="_blank">
-        <img src="https://media.tenor.com/2h5AqdpGfi0AAAAC/arlecchino-genshin-impact.gif" alt="Main Gif" />
+        <img src="https://your-image-link.jpg" alt="Main Image" />
     </a>
 </div>
 
