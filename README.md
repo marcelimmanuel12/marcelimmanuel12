@@ -89,6 +89,6 @@
 <br> 
 <br>
 <div align="center">
-<img src="img/cat-line.png" alt="Ilsya" />
+<img src="cat-line.png" alt="Ilsya" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
