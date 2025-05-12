@@ -5,7 +5,7 @@
 ---
 
 ### 💫 About Me:
- 🌱 I’m currently learning Python, HTML, CSS, C++<br><br>📫 How to reach me marcel.imanuel1211@gmail.com<br><br>⚡ Fun fact I am Freak, Bussy
+ 🌱 I’m currently learning Python, C++, HTML, CSS, JavaScript<br><br>📫 How to reach me marcel.imanuel1211@gmail.com<br><br>⚡ Fun fact I am Freak, Bussy
 
 
 #### 🌐 Socials:
@@ -15,13 +15,13 @@
   <a href="https://www.linkedin.com/in/marcel-immanuel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/amang_14" target="_blank">
+  <a href="https://discordapp.com/marcel.122" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/kim_marcel12" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:marcel.@gmail.cpm" target="_blank">
+  <a href="mailto:marcel.imanuel1211@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
