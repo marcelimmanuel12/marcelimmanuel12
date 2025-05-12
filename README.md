@@ -57,9 +57,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=arduino" height="32" alt="arduino logo"  />
   <img width="16" />
-    <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/navicat/navicat-original.svg" height="32" alt="navicat logo" />
-  </div>
   <img src="https://skillicons.dev/icons?i=discord" height="32" alt="discord logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
