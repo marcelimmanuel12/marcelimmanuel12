@@ -1,4 +1,10 @@
-![d4c6d9c876ce29954ecc0455dd4acd76](https://github.com/user-attachments/assets/e7cf67c7-4ef7-4135-9c67-e82960fc86f9)
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+    </p>
+</div>
+
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 ---
 
 ### 💫 About Me:
@@ -66,7 +72,13 @@
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
-
-<img src="cdn/img/cat-line.png" alt="Ilsya" />
+<div>
+    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+    <div align="center">
+        <img src="https://media1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
+    </div>
 </div>
+<br> 
+<br>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
