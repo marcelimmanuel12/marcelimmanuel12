@@ -1,4 +1,4 @@
-![Banner Tech](assets/banner-tech.png)
+![Banner Tech](banner-tech.png)
 
 <h1 align="center">Hello Everyone <img src="assets/giphy.gif" width="35">, I'm Marcel Immanuel </h1>
 <div align="center">
