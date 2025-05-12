@@ -1,8 +1,9 @@
 <div align="center">
     <a href="https://marcelimmanuel12.github.io">
-        <img src="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/view?usp=sharing" alt="Main Gif" />
+        <img src="https://drive.google.com/uc?export=view&id=10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg" alt="Main Gif" />
     </a>
 </div>
+
 ---
 
 ### 💫 About Me:
