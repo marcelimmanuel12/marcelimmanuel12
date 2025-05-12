@@ -1,4 +1,8 @@
 <div align="center">
+    <!-- Gambar atau Thumbnail -->
+    <img src="https://your-image-link.jpg" alt="Main Image" width="400" />
+
+    <!-- Video langsung muncul menggunakan iframe -->
     <iframe src="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" width="800" height="450" allow="autoplay"></iframe>
 </div>
 
