@@ -67,4 +67,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 
+<img src="cdn/img/cat-line.png" alt="Ilsya" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
