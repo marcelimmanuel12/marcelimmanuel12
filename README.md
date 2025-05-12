@@ -4,7 +4,7 @@
     </p>
 </div>
 
-<h2 align="center">Hey Marcel there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="center">Hey Marcel Here! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 ---
 
 ### 💫 About Me:
@@ -68,7 +68,12 @@
 </div>
 
 ---
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzfar&layout=compact&theme=graywhite&hide_border=false" height="130" />
+</div>  
 
+---
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
