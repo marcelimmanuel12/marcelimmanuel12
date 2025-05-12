@@ -1,9 +1,4 @@
-<div align="center">
-    <a href="https://marcelimmanuel12.github.io">
-        <img src="https://drive.google.com/uc?export=view&id=10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg" alt="Main Gif" />
-    </a>
-</div>
-
+![d4c6d9c876ce29954ecc0455dd4acd76](https://github.com/user-attachments/assets/e7cf67c7-4ef7-4135-9c67-e82960fc86f9)
 ---
 
 ### 💫 About Me:
