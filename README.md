@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" target="_blank">
-        <img src="https://your-image-link.jpg" alt="Main Image" />
-    </a>
+    <iframe src="https://drive.google.com/file/d/10pQWb3UqxpSowHC6cnzSLAL_8-0rsUEg/preview" width="800" height="450" allow="autoplay"></iframe>
 </div>
 
 ---
